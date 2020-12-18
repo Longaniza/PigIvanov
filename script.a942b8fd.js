@@ -5,17 +5,17 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./UIElements/selectedElements.js":"Ebx6"}],"xRih":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=a;var e=r(require("./UIElements/selectedElements.js"));function t(){if("function"!=typeof WeakMap)return null;var e=new WeakMap;return t=function(){return e},e}function r(e){if(e&&e.__esModule)return e;if(null===e||"object"!=typeof e&&"function"!=typeof e)return{default:e};var r=t();if(r&&r.has(e))return r.get(e);var a={},l=Object.defineProperty&&Object.getOwnPropertyDescriptor;for(var n in e)if(Object.prototype.hasOwnProperty.call(e,n)){var c=l?Object.getOwnPropertyDescriptor(e,n):null;c&&(c.get||c.set)?Object.defineProperty(a,n,c):a[n]=e[n]}return a.default=e,r&&r.set(e,a),a}function a(t){0===t.activePlayer?(e.player1CurrentScoreEl.textContent=0,e.player1El.classList.remove("player--active"),e.player2El.classList.add("player--active"),t.activePlayer=1):(e.player2CurrentScoreEl.textContent=0,e.player2El.classList.remove("player--active"),e.player1El.classList.add("player--active"),t.activePlayer=0)}
 },{"./UIElements/selectedElements.js":"Ebx6"}],"FfXZ":[function(require,module,exports) {
-module.exports="/dice-1.4f7f0f95.png";
+module.exports="./dice-1.4f7f0f95.png";
 },{}],"yKqJ":[function(require,module,exports) {
-module.exports="/dice-2.4da4a0c8.png";
+module.exports="./dice-2.4da4a0c8.png";
 },{}],"cfUA":[function(require,module,exports) {
-module.exports="/dice-3.98806e68.png";
+module.exports="./dice-3.98806e68.png";
 },{}],"nV8e":[function(require,module,exports) {
-module.exports="/dice-4.4c471d06.png";
+module.exports="./dice-4.4c471d06.png";
 },{}],"cwFr":[function(require,module,exports) {
-module.exports="/dice-5.fb779bce.png";
+module.exports="./dice-5.fb779bce.png";
 },{}],"OVlQ":[function(require,module,exports) {
-module.exports="/dice-6.b203bd85.png";
+module.exports="./dice-6.b203bd85.png";
 },{}],"HBCd":[function(require,module,exports) {
 module.exports={"dice-1":require("./dice-1.png"),"dice-2":require("./dice-2.png"),"dice-3":require("./dice-3.png"),"dice-4":require("./dice-4.png"),"dice-5":require("./dice-5.png"),"dice-6":require("./dice-6.png")};
 },{"./dice-1.png":"FfXZ","./dice-2.png":"yKqJ","./dice-3.png":"cfUA","./dice-4.png":"nV8e","./dice-5.png":"cwFr","./dice-6.png":"OVlQ"}],"Mz3S":[function(require,module,exports) {
