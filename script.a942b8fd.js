@@ -9,9 +9,9 @@ module.exports="/dice-1.4f7f0f95.png";
 },{}],"yKqJ":[function(require,module,exports) {
 module.exports="/dice-2.4da4a0c8.png";
 },{}],"cfUA":[function(require,module,exports) {
-module.exports="/dice-3.98806e68.png";
+module.exports="./dice-3.98806e68.png";
 },{}],"nV8e":[function(require,module,exports) {
-module.exports="/dice-4.4c471d06.png";
+module.exports="./dice-4.4c471d06.png";
 },{}],"cwFr":[function(require,module,exports) {
 module.exports="/dice-5.fb779bce.png";
 },{}],"OVlQ":[function(require,module,exports) {
